@@ -43,7 +43,7 @@ class AppBarExample extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'This is the home page',
+          'ሰላም እንዴት ናቹ ክቡራት እና ክቡራን',
           style: TextStyle(fontSize: 24),
         ),
       ),
